@@ -3,6 +3,6 @@ cat << EOF
 addons: []
 config_vars:
   PATH: /app/local/bin:$PATH
-  PERL5LIB: /app/local/lib
+  PERL5LIB: /app/local/lib/perl5
 default_process_types: {}
 EOF
