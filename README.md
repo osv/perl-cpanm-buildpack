@@ -1,4 +1,4 @@
-Perl cpan buildpack 
+Perl cpan buildpack [![Build Status](https://app.wercker.com/status/a98be5b7bd2105d22584cdaabe652c2b/s "Build Status")](https://app.wercker.com/project/bykey/a98be5b7bd2105d22584cdaabe652c2b)
 =======
 
 Deploy Perl applications to [Dokku](https://github.com/progrium/dokku/) in seconds using Perl from container.
