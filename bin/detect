@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+if [ -f $1/Makefile.PL || -f $1/cpanfile ]; then
+  echo "Perl"
+  exit 0
+else
+  exit 1
+fi
+
+exit 0
